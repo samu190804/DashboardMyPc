@@ -20,6 +20,21 @@ $ npm install
 $ npm run dev
 ```
 
+### Packages
+
+```bash
+# Para obtener los datos del sistema (en el proceso Main)
+npm install systeminformation
+
+# Para los gráficos (en el proceso Renderer)
+npm install chart.js react-chartjs-2  # Si usas React
+# o
+npm install apexcharts                # Muy buena para dashboards
+
+# Para el movimiento de los cuadros
+npm install react-grid-layout         # El estándar para dashboards
+```
+
 ### Build
 
 ```bash

@@ -23,7 +23,12 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.2",
     "@electron-toolkit/utils": "^4.0.0",
-    "electron-updater": "^6.3.9"
+    "apexcharts": "^5.10.3",
+    "chart.js": "^4.5.1",
+    "electron-updater": "^6.3.9",
+    "react-chartjs-2": "^5.3.1",
+    "react-grid-layout": "^2.2.2",
+    "systeminformation": "^5.31.3"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^3.0.0",

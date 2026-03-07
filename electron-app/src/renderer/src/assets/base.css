@@ -15,6 +15,13 @@
   --ev-c-text-2: rgba(235, 235, 245, 0.6);
   --ev-c-text-3: rgba(235, 235, 245, 0.38);
 
+  /* Accent colors for navbar */
+  --ev-accent-blue: #6495ed;
+  --ev-accent-cyan: #00bcd4;
+  --ev-accent-green: #4caf50;
+  --ev-accent-orange: #ff9800;
+  --ev-accent-purple: #9c27b0;
+
   --ev-button-alt-border: transparent;
   --ev-button-alt-text: var(--ev-c-text-1);
   --ev-button-alt-bg: var(--ev-c-gray-3);
